@@ -6,7 +6,7 @@ Lastest YouTube Videos
 
 ### Languages and Tools
 ![Php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&47C5FB)
-![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)
+![Yii](https://img.shields.io/badge/-Yii_Framework-090909?style=for-the-badge&logo=yii&47C5FB)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&47C5FB)
 
 Follow Me
